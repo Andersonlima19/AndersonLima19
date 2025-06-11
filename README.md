@@ -67,5 +67,3 @@ Sou um **Analista de Qualidade de Software** com sólida experiência em **autom
 - **Scrum/Ágil**: Participação ativa em squads com entregas contínuas e testes integrados ao ciclo de desenvolvimento.
 
 ---
-
-<p align="center"><i>“Qualidade não é um ato, é um hábito.” – Aristóteles</i></p>
